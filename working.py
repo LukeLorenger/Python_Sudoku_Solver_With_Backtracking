@@ -5,6 +5,14 @@
 # Step.4: Repeat
 # Step.5: Backtrack
 
+# Sudoku: Squares-81, Boxes-9, 3box x 3box grid
+
+# Rules:
+# To solve, each row of 9 squares must contain numbers 1-9
+# Each column must contain numbers 1-9
+# Each box must contain numbers 1-9
+# No row, column or box, may repeat any number
+
 # Board
 board = [
     [7,8,0,4,0,0,1,2,0],
